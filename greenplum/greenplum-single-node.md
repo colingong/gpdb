@@ -24,9 +24,6 @@ Only need to make 2 hostname entries in host file for same server.
 I have created mdw for master and sdw1,sdw2 for segments(1+2)
 ```
 
-
-```
-
 ## ubuntu安装单机版
 
 ```
